@@ -3,3 +3,4 @@
 htmlcov
 .env
 .vscode/
+__pycache__
